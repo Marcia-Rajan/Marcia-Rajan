@@ -14,4 +14,6 @@
 
 🔎 Fun fact: I have a knack for detail! 🧐
 
-📧 Connect with me: [LinkedIn](https://www.linkedin.com/in/marciarajan) | [Portfolio](https://marcia-rajan.github.io/marciarajan.github.io/generic.html)
+📧 Connect with me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marciarajan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen?style=for-the-badge&logo=github)](https://marcia-rajan.github.io/marciarajan.github.io/generic.html)
