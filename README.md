@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SQL, R, Python, Power BI and ETL tools<br>👯 I’m looking to collaborate on on Datasets for Analysis and Visualization projects. <br>🌱 I’m currently learning  learning Machine Learning and Python. <br>💬 Ask me about anything related to data <br>⚡ Fun fact : I have an eye for detail
+🔭 I’m currently working on Microsoft Excel, SQL, R, Python, Power BI and ETL tools<br>👯 I’m looking to collaborate on on Datasets for Analysis and Visualization projects. <br>🌱 I’m currently learning  learning Machine Learning and Python. <br>💬 Ask me about anything related to data <br>⚡ Fun fact : I have an eye for detail
 
 
 ## 🌐 Socials:
